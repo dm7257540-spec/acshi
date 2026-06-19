@@ -49,7 +49,7 @@ Il2Cpp[_0x1d8c(0x0)](function () {
   Interceptor[_0x1d8c(0xc)](_0x3a6b[_0x1d8c(0xb)], {
     [_0x1d8c(0xd)]: function (_0x2f7c) {
       try { _0x2f7c[0x2] = ptr(0x1); } catch (_0xb8a4) {}
-      console.log("it worked i think"
+      console.log("it worked i think")
     },
   });
 });
